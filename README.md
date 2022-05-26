@@ -27,8 +27,8 @@
 -	The winner of the election was **Diana DeGette** who received  **73.8%** of the votes and **272,892** number of votes
 *	Command line Output:
 	![This is an image](https://github.com/Izzyycl/Election_analysis/blob/main/Command%20line%20Output.png?raw=true)
-	Election analysis text file output:
-*	![This is an image](https://github.com/Izzyycl/Election_analysis/blob/main/Election%20analysis%20text%20file%20output.png?raw=true)
+*	Election analysis text file output:
+	![This is an image](https://github.com/Izzyycl/Election_analysis/blob/main/Election%20analysis%20text%20file%20output.png?raw=true)
 
 -	## Election-Audit Summary: 
 
